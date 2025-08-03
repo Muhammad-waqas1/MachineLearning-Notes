@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Mac OS metadata
+.DS_Store
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm settings
+.idea/
+
+# Python egg metadata
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+pip-wheel-metadata/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy, pylint, pyright
+.mypy_cache/
+.pytype/
+.pyright/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Machine learning model files / outputs (if any)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+*.tflite
+*.onnx
+runs/
+checkpoints/
+logs/
+
+# Environment variable/config files
+.envrc
+.env.local
+.env.*
+
+# Optional: if you're storing datasets locally
+data/
+datasets/
+
+# Others
+Automate_script.py
+Playlist_Videos_titles.txt
